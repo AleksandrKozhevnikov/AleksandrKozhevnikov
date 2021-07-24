@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AleksandrKozhevnikov
-- 👀 I’m interested in react and fullstack devtlopment
+- 👀 I’m interested in react and fullstack development
 - 🌱 I’m currently learning node js backend technology
 - 📫 You may reach me on 89240402642 or hospitaljob977@mail.ru
